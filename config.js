@@ -31,11 +31,11 @@ const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
 global.pairing = '6285864034767'
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['573112725228', 'Jen', true]]
 global.mods = []
 global.prems = []
 global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorown = '573112725228'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
